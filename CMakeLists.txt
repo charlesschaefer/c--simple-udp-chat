@@ -3,7 +3,7 @@ project(udp-chat CXX)
 
 
 
-add_executable(udp-chat src/udp-chat.cpp src/main.cpp)
+add_executable(udp-chat src/main.cpp)
 
 
 
