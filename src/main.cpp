@@ -27,7 +27,7 @@ int main(int argc, char *argv[]) {
         Client client = Client(2222);
         client.receive();
     } else {
-        printf("Not correct argument\n");
+        printf("Incorrect argument\n");
     }
 
     return 0;
