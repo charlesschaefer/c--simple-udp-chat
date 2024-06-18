@@ -32,14 +32,3 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }
-
-/* #include <stdio.h>
-#include <string.h>
-
-int main(int argc, char *argv[]) {
-    printf ("Guess my favorite fruit? \n");
-    if (std::string(argv[1]) == "apple") {
-        puts ("Correct answer!");
-    }
-  return 0;
-} */
